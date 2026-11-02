@@ -1,0 +1,7 @@
+[project]
+name = "ahshgb-forever"
+version = "0.1.0"
+description = "恢复阿基米德fm被删除的安徽生活广播回听列表"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = []
