@@ -1,0 +1,11 @@
+# 历史缓存目录
+
+把 ahshgb-podcast 的历史缓存文件上传到这个目录（必需）：
+
+- `probe_cache.csv`
+- `roster.json`
+
+可选：`discovery.json`、`ahrtv_episodes.json`。
+
+工作流每晚在这里增量追加探测结果，并把变化提交回仓库。
+详见 `docs/部署说明.md`。

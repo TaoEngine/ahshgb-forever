@@ -1,0 +1,1145 @@
+[
+ {
+  "album": "1055乐光宝盒",
+  "buckets": [
+   {
+    "bucket": "c_3785",
+    "hours": [
+     "1400"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13324"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "1055爱上车生活",
+  "buckets": [
+   {
+    "bucket": "c_8892",
+    "hours": [
+     "1000"
+    ],
+    "mode": "known",
+    "programIds": [
+     "18189"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "1055爱帮忙",
+  "buckets": [
+   {
+    "bucket": "c_3786",
+    "hours": [
+     "1700"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13325"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "世界民谣简史",
+  "buckets": [
+   {
+    "bucket": "c_26123",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "34620"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "乐动生活",
+  "buckets": [
+   {
+    "bucket": "c_3775",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "13315"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "创业找崔磊",
+  "buckets": [
+   {
+    "bucket": "c_20839",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "29620"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "博文天下",
+  "buckets": [
+   {
+    "bucket": "c_26122",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "34619"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "口袋购物车",
+  "buckets": [
+   {
+    "bucket": "c_8893",
+    "hours": [
+     "1600"
+    ],
+    "mode": "known",
+    "programIds": [
+     "18190"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "唐老师来了",
+  "buckets": [
+   {
+    "bucket": "c_3777",
+    "hours": [
+     "0900",
+     "1600"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13317"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "国元证券时间",
+  "buckets": [
+   {
+    "bucket": "c_22848",
+    "hours": [
+     "1500"
+    ],
+    "mode": "known",
+    "programIds": [
+     "31918"
+    ],
+    "liveTime": [
+     "15:00-16:00(1-5)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "坤哥聊体育",
+  "buckets": [
+   {
+    "bucket": "c_28646",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "37443"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "城市morning call",
+  "buckets": [
+   {
+    "bucket": "c_8888",
+    "hours": [
+     "0700"
+    ],
+    "mode": "known",
+    "programIds": [
+     "18196"
+    ],
+    "liveTime": [
+     "07:00-09:00(1-5)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "城市原味音乐",
+  "buckets": [
+   {
+    "bucket": "c_20838",
+    "hours": [
+     "1300",
+     "1400"
+    ],
+    "mode": "known",
+    "programIds": [
+     "29619"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "大牌主打歌",
+  "buckets": [
+   {
+    "bucket": "c_8891",
+    "hours": [
+     "1200",
+     "2000",
+     "2200"
+    ],
+    "mode": "known",
+    "programIds": [
+     "18195"
+    ],
+    "liveTime": [
+     "12:00-15:00(1-7),20:00-21:00(1-7),22:00-23:59(6,7)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "天天喜洋洋",
+  "buckets": [
+   {
+    "bucket": "c_7442",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "16632"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   },
+   {
+    "bucket": "c_8890",
+    "hours": [
+     "0900",
+     "1500"
+    ],
+    "mode": "known",
+    "programIds": [
+     "18191"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "天生快活人",
+  "buckets": [
+   {
+    "bucket": "c_3781",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "13320"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "娱乐认真show",
+  "buckets": [
+   {
+    "bucket": "c_20837",
+    "hours": [
+     "1600"
+    ],
+    "mode": "known",
+    "programIds": [
+     "29618"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "安徽经视《第一时间》",
+  "buckets": [
+   {
+    "bucket": "c_3787",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "13326"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "小虎看房",
+  "buckets": [
+   {
+    "bucket": "c_28647",
+    "hours": [
+     "1200"
+    ],
+    "mode": "known",
+    "programIds": [
+     "37444"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "广播剧",
+  "buckets": [
+   {
+    "bucket": "c_26121",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "34618"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "徐徐时光",
+  "buckets": [
+   {
+    "bucket": "c_8896",
+    "hours": [
+     "2100"
+    ],
+    "mode": "known",
+    "programIds": [
+     "18192"
+    ],
+    "liveTime": [
+     "21:00-22:00(1-7)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "心花一路\"fun\"",
+  "buckets": [
+   {
+    "bucket": "c_8894",
+    "hours": [
+     "1700"
+    ],
+    "mode": "known",
+    "programIds": [
+     "18219"
+    ],
+    "liveTime": [
+     "17:00-19:00(1-5)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "成长小欢喜",
+  "buckets": [
+   {
+    "bucket": "c_28648",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "37445"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "我们·约吧",
+  "buckets": [
+   {
+    "bucket": "c_8895",
+    "hours": [
+     "1300",
+     "1600",
+     "1900"
+    ],
+    "mode": "known",
+    "programIds": [
+     "18193"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "拜托了 老司机",
+  "buckets": [
+   {
+    "bucket": "c_22847",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "31917"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "新闻早高峰",
+  "buckets": [
+   {
+    "bucket": "c_8889",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "18194"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "早安 城市",
+  "buckets": [
+   {
+    "bucket": "c_22846",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "31916"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "晚安 城市",
+  "buckets": [
+   {
+    "bucket": "c_22849",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "31919"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "晨风雅韵",
+  "buckets": [
+   {
+    "bucket": "c_3772",
+    "hours": [
+     "0500"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13312"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "智在必得",
+  "buckets": [
+   {
+    "bucket": "c_3783",
+    "hours": [
+     "1200"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13322"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "樊登读书会",
+  "buckets": [
+   {
+    "bucket": "c_22851",
+    "hours": [
+     "1900"
+    ],
+    "mode": "known",
+    "programIds": [
+     "31921"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "氧气周刊",
+  "buckets": [
+   {
+    "bucket": "c_7441",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "16631"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "汽车315",
+  "buckets": [
+   {
+    "bucket": "c_20835",
+    "hours": [
+     "1100"
+    ],
+    "mode": "known",
+    "programIds": [
+     "29616"
+    ],
+    "liveTime": [
+     "11:00-12:00(1-7)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "爱上乐生活",
+  "buckets": [
+   {
+    "bucket": "c_36245",
+    "hours": [
+     "1500",
+     "1700"
+    ],
+    "mode": "known",
+    "programIds": [
+     "45954"
+    ],
+    "liveTime": [
+     "15:00-16:00(6,7),17:00-19:00(6,7)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "特别关注",
+  "buckets": [
+   {
+    "bucket": "c_3776",
+    "hours": [
+     "0700",
+     "0800"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13316"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "瑞思之声",
+  "buckets": [
+   {
+    "bucket": "c_22850",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "31920"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "聚焦专精特新版挂牌企业",
+  "buckets": [
+   {
+    "bucket": "c_28649",
+    "hours": [
+     "1600"
+    ],
+    "mode": "known",
+    "programIds": [
+     "37446"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "蜻蜓思享会",
+  "buckets": [
+   {
+    "bucket": "c_28650",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "37447"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "资讯有故事",
+  "buckets": [
+   {
+    "bucket": "c_36244",
+    "hours": [
+     "0700",
+     "1600"
+    ],
+    "mode": "known",
+    "programIds": [
+     "45953"
+    ],
+    "liveTime": [
+     "16:00-17:00(1-4,6,7),07:00-09:00(6),07:00-08:00(7)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "走进挂牌企业",
+  "buckets": [
+   {
+    "bucket": "c_21639",
+    "hours": [
+     "1600"
+    ],
+    "mode": "known",
+    "programIds": [
+     "30947"
+    ],
+    "liveTime": [
+     "16:00-17:00(5)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "超级新闻场",
+  "buckets": [
+   {
+    "bucket": "c_3774",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "13314"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "辣椒家族",
+  "buckets": [
+   {
+    "bucket": "c_3778",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "13318"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "那些歌儿",
+  "buckets": [
+   {
+    "bucket": "c_20833",
+    "hours": [
+     "0900"
+    ],
+    "mode": "known",
+    "programIds": [
+     "29614"
+    ],
+    "liveTime": [
+     "09:00-10:00(1-7)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "都市旋律",
+  "buckets": [
+   {
+    "bucket": "c_3771",
+    "hours": [
+     "0000"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13311"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "长书连播",
+  "buckets": [
+   {
+    "bucket": "c_3773",
+    "hours": [
+     "0600",
+     "2000"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13313"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "阿宝辣嘴秀",
+  "buckets": [
+   {
+    "bucket": "c_3779",
+    "hours": [
+     "1000",
+     "1500"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13319"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "非常影视",
+  "buckets": [
+   {
+    "bucket": "c_3784",
+    "hours": [
+     "1300"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13323"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "非常慧生活",
+  "buckets": [
+   {
+    "bucket": "c_3782",
+    "hours": [
+     "1100"
+    ],
+    "mode": "known",
+    "programIds": [
+     "13321"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2015-04-01",
+     "2016-12-31"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "韦辰书场",
+  "buckets": [
+   {
+    "bucket": "c_8897",
+    "hours": [
+     "2200"
+    ],
+    "mode": "known",
+    "programIds": [
+     "18197"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "音乐时间",
+  "buckets": [
+   {
+    "bucket": "c_36622",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "46321"
+    ],
+    "liveTime": [
+     "01:00-05:00(1-7)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ },
+ {
+  "album": "食养@中国",
+  "buckets": [
+   {
+    "bucket": "c_20836",
+    "hours": [],
+    "mode": "discover",
+    "programIds": [
+     "29617"
+    ],
+    "liveTime": [
+     "已停播"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ]
+ },
+ {
+  "album": "马大姐话健康",
+  "buckets": [
+   {
+    "bucket": "c_20834",
+    "hours": [
+     "1000"
+    ],
+    "mode": "known",
+    "programIds": [
+     "29615"
+    ],
+    "liveTime": [
+     "10:00-11:00(1-7)"
+    ],
+    "scan": [
+     "2016-01-01",
+     "2026-09-30"
+    ]
+   }
+  ],
+  "isLive": 1
+ }
+]

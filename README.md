@@ -31,7 +31,7 @@
 然后，在你的播客播放器中导入本项目提供的动态 OPML 订阅地址
 
 ```
-https://ahshgb-forever.github.io/ahshgb.opml
+https://taoengine.github.io/ahshgb-forever/ahshgb.opml
 ```
 
 建议听友们打开手头上播客软件的保存缓存功能，存下有价值的历史节目回听，万一阿基米德fm将这最后一点回听内容深度冷归档后，这些曾听过的历史回听仍能保存安徽生活广播的峥嵘岁月
@@ -43,7 +43,7 @@ https://ahshgb-forever.github.io/ahshgb.opml
 直接访问项目托管网站即可
 
 ```
-https://ahshgb-forever.github.io
+https://taoengine.github.io/ahshgb-forever
 ```
 
 愿景：网站提供分时间，分节目的回听，并介绍安徽生活广播这个频率的历史
@@ -52,9 +52,10 @@ https://ahshgb-forever.github.io
 
 ## 开源声明
 
-本项目基于 CC0 开源，由安徽生活广播听友群自发创建，使用者需同意以下开源声明
+本项目代码基于 [MIT 许可证](LICENSE) 开源，由安徽生活广播听友群自发创建；使用或分发本项目代码时，请保留 [LICENSE](LICENSE) 中的版权与许可声明。
 
-- 本项目仅指向阿基米德fm隐藏回听地址，音频内容非项目价值导向
+- 本项目仅指向阿基米德fm隐藏回听地址，不对音频内容主张所有权
+- 音频内容的制作归安徽广播电视台及相关权利人所有而并非本项目
 - 本项目不存储任何含版权的音频内容，不负责对回听可靠性的保证
 - 本项目不隶属于 “安徽广播电视台” 或 “阿基米德fm” 的任一主体
 - 本项目属安徽生活广播听友群自发创建，开源社区项目无商业行为

@@ -1,6 +1,8 @@
-def main():
-    print("Hello from ahshgb-forever!")
+# -*- coding: utf-8 -*-
+"""兼容入口：``python main.py <子命令>`` 等价于 ``python -m ahshgb <子命令>``。"""
+import sys
 
+from ahshgb.cli import main
 
 if __name__ == "__main__":
-    main()
+    sys.exit(main())

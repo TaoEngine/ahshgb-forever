@@ -8,3 +8,13 @@ wheels/
 
 # Virtual environments
 .venv
+
+# 本地临时目录与构建产物（站点每次 Action 重新生成，不入库）
+.tmp/
+site/
+download/
+ajmide_download/
+ahrtv_download/
+
+# 大型临时缓存（历史缓存由用户上传到 cache/，不在忽略之列）
+*.part
