@@ -1,0 +1,163 @@
+{
+ "generated_at": "2026-11-03T00:25:15.742905+08:00",
+ "programs": [
+  {
+   "album": "国元证券时间",
+   "brand_id": 10600969,
+   "program_id": "31918",
+   "cover": "https://img-ossimg-qn.ajmide.com/program/1GGKaG.png",
+   "buckets": {
+    "c_22848": {
+     "hours": [
+      15
+     ],
+     "last_seen": "20261102"
+    }
+   }
+  },
+  {
+   "album": "城市morning call",
+   "brand_id": 10606886,
+   "program_id": "18196",
+   "cover": "https://img-ossimg-qn.ajmide.com/program/1ACReF.png",
+   "buckets": {
+    "c_8888": {
+     "hours": [
+      7
+     ],
+     "last_seen": "20261102"
+    }
+   }
+  },
+  {
+   "album": "大牌主打歌",
+   "brand_id": 20993353,
+   "program_id": "18195",
+   "cover": "https://img-ossimg-qn.ajmide.com/program/1ACReD.png",
+   "buckets": {
+    "c_8891": {
+     "hours": [
+      12,
+      20,
+      22
+     ],
+     "last_seen": "20261102"
+    }
+   }
+  },
+  {
+   "album": "徐徐时光",
+   "brand_id": 10603817,
+   "program_id": "18192",
+   "cover": "https://img-ossimg-qn.ajmide.com/program/1ACRez.png",
+   "buckets": {
+    "c_8896": {
+     "hours": [
+      21
+     ],
+     "last_seen": "20261102"
+    }
+   }
+  },
+  {
+   "album": "心花一路\"fun\"",
+   "brand_id": 10602253,
+   "program_id": "18219",
+   "cover": "https://img-ossimg-qn.ajmide.com/program/1ADywr.png",
+   "buckets": {
+    "c_8894": {
+     "hours": [
+      17
+     ],
+     "last_seen": "20261102"
+    }
+   }
+  },
+  {
+   "album": "汽车315",
+   "brand_id": 10598815,
+   "program_id": "29616",
+   "cover": "https://img-ossimg-qn.ajmide.com/c_up/29616.jpg",
+   "buckets": {
+    "c_20835": {
+     "hours": [
+      11
+     ],
+     "last_seen": "20261102"
+    }
+   }
+  },
+  {
+   "album": "爱上乐生活",
+   "brand_id": 32055574,
+   "program_id": "45954",
+   "cover": "https://img-ossimg-qn.ajmide.com/20181120/yy_9.jpg",
+   "buckets": {
+    "c_36245": {
+     "hours": [
+      15,
+      17
+     ],
+     "last_seen": "20261101"
+    }
+   }
+  },
+  {
+   "album": "资讯有故事",
+   "brand_id": 32055573,
+   "program_id": "45953",
+   "cover": "https://img-ossimg-qn.ajmide.com/20181120/ts_68.jpg",
+   "buckets": {
+    "c_36244": {
+     "hours": [
+      7,
+      16
+     ],
+     "last_seen": "20261102"
+    }
+   }
+  },
+  {
+   "album": "走进挂牌企业",
+   "brand_id": 10595812,
+   "program_id": "30947",
+   "cover": "https://img-ossimg-qn.ajmide.com/program/1GfcLe.png",
+   "buckets": {
+    "c_21639": {
+     "hours": [
+      16
+     ],
+     "last_seen": "20261030"
+    }
+   }
+  },
+  {
+   "album": "那些歌儿",
+   "brand_id": 10606761,
+   "program_id": "29614",
+   "cover": "https://img-ossimg-qn.ajmide.com/c_up/29614.jpg",
+   "buckets": {
+    "c_20833": {
+     "hours": [
+      9
+     ],
+     "last_seen": "20261102"
+    }
+   }
+  },
+  {
+   "album": "马大姐话健康",
+   "brand_id": 10598533,
+   "program_id": "29615",
+   "cover": "https://img-ossimg-qn.ajmide.com/c_up/29615.jpg",
+   "buckets": {
+    "c_20834": {
+     "hours": [
+      10
+     ],
+     "last_seen": "20261102"
+    }
+   }
+  }
+ ]
+}
